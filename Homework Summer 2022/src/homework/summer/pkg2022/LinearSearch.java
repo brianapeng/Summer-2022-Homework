@@ -11,7 +11,6 @@ import java.util.Scanner;
  * @author brian
  */
 public class LinearSearch {
-//should i hardcode a linear search or not? 
     static void LinearSearch() {
         Scanner s = new Scanner(System.in);
         
