@@ -11,6 +11,7 @@ package homework.summer.pkg2022;
  */
 public class BinarySearch {
     static void BinarySearch(){
+        
         //write code here
     }
 }
