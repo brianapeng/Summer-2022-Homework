@@ -16,7 +16,7 @@ public class BubbleSort {
         int[] n = {5,2,7,1,8};
         
         for(int i = 0; i < n.length; i++){
-            for(int j = 0; j < n.length - 1 - i; j++){
+            for(int j = 0; j < n.length - 1 - i; j++){ // the end number 
                 int temp = 0;
                 
                 if(n[j] > n[j + 1]){

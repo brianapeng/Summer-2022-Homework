@@ -4,14 +4,11 @@
  * and open the template in the editor.
  */
 package homework.summer.pkg2022;
-import java.util.Scanner;
 
 /**
  *
  * @author brian
  */
-public class Palindrome {
-    static 
-    
+public class BinarySearchRecur {
     
 }
