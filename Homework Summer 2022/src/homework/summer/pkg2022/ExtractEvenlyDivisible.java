@@ -4,11 +4,16 @@
  * and open the template in the editor.
  */
 package homework.summer.pkg2022;
-
+import java.util.Scanner;
 /**
  *
  * @author brian
  */
+
+
 public class ExtractEvenlyDivisible {
+    public static void main(String[] args){
+        Scanner s = new Scanner(System.in);
+    }
     
 }
